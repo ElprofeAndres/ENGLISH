@@ -1,0 +1,11 @@
+VERSIÓN AUTÓNOMA — ENGLISH WITH TEACHER JAIME
+
+Los cuatro audios están incrustados dentro del propio HTML; los reproductores no dependen de rutas a archivos externos.
+
+1. Extrae el ZIP completo.
+2. Abre el HTML con Microsoft Edge o Google Chrome.
+3. Pulsa Play en cada grado.
+4. Usa Download MP3 para guardar el audio.
+5. Debajo encontrarás la transcripción y cinco preguntas de comprensión por grado.
+
+Se incluyen también los MP3 independientes como respaldo.
